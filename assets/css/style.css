@@ -1,0 +1,21 @@
+/*.background {
+	background-image: url("../images/magicBall.png");
+}*/
+.icon1 {
+	padding-left: 500px;
+
+}
+.icon2 {
+	padding-left: 380px;
+
+}
+h1 {
+	text-align: center;
+
+	/*width: 490px;*/
+}
+h2 {
+	text-align: center;
+	font-weight: bolder;
+	font-size: 28px;
+}
